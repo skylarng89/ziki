@@ -17,7 +17,10 @@
         <li><a class="side_nav" href="#contact">My Journal</a></li>
         <li><a class="side_nav" href="#about">Other Journals</a></li>
         <li><a class="side_nav" href="" data-toggle="modal" data-target="#profile">Profile</a></li>
+        <li><a class="side_nav" href="" data-toggle="modal" data-target="#settings">Settings</a></li>
       </ul>
     </div>
   </div>
 </div>
+
+
